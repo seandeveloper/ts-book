@@ -1,0 +1,31 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "ts-book example projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seandeveloper/ts-book.git"
+  },
+  "keywords": [
+    "learning",
+    "typescript"
+    "demo"
+    "example"
+  ],
+  "author": "sean knowles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seandeveloper/ts-book/issues"
+  },
+  "homepage": "https://github.com/seandeveloper/ts-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^2.13.5"
+  },
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
